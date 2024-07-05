@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**synergyclub/synergyclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**synergyClub** is a ✨ Clean Energy ✨ team we are still continuing to see how things will work out for us.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on Rickroll Protocols
+  Rick roll protocols is now officially into phase 2, we have collected datas with our previouse 2 protocol, and based off of the data, we can definitly create a updated product with work.
+## 💬 Ask me about Team Synergy'
+  Team Synergy works with clean solor energys, we want to change how energys work
+## 📫 How to reach me: shhssynergy@gmail.com
+  just a simple gmail
+## 😄 Pronouns: Team Synergy HE/SHE/HIM/HER/HIS/HERS
+  what ever
+## ⚡ Fun fact: Team Synergy has been working on clean energy since 2018
